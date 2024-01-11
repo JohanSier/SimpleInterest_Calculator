@@ -1,4 +1,4 @@
-# SimpleInterest_Calculator Open Source Project - Empowering Micro-Finance Innovation
+# Simple_Interest_Calculator - Empowering Micro-Finance Innovation
 
 Welcome to our open source project! 
 
