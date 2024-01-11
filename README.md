@@ -1,6 +1,17 @@
 # SimpleInterest_Calculator Open Source Project - Empowering Micro-Finance Innovation
 
-Welcome to our collaborative space! Your contributions play a crucial role in shaping the future of our Micro-Finance Startup. To ensure a seamless collaboration experience, kindly keep the following factors in mind:
+Welcome to our open source project! 
+
+This project is aobut a calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
+Your contributions play a crucial role in shaping the future of our Micro-Finance Startup. To ensure a seamless collaboration experience, kindly keep the following factors in mind:
 
 ## Code Style
 Maintain a consistent code style throughout the project. Code readability is key.
